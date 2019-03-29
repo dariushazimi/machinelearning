@@ -16,5 +16,6 @@
 
 ## Deep Neural Network
 
-* [Introduction](deep-neural-network/deep-neural-networks.md)
+* [Introduction](deep-neural-network/deep-neural-networks/README.md)
+  * [Parameters vs Hyperparameters](deep-neural-network/deep-neural-networks/forward-propagation-in-a-deep-network.md)
 
