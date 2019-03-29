@@ -24,3 +24,9 @@ Every few months try a different value for your hyperparameters and see if that 
 
 
 
+{% hint style="info" %}
+Each activation has a different derivative. Thus, during back propagation you need to know which activation was used in the forward propagation to be able to compute the correct derivative.
+{% endhint %}
+
+
+
