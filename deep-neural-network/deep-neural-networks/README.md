@@ -6,7 +6,7 @@ Here is an example of multi-layered NN.
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image.png)
 
 How to architect the NN? How to select the number of layers and neurons?
 

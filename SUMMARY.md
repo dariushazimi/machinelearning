@@ -12,11 +12,12 @@
 
 ## Introduction to Machine Learning
 
-* [Untitled](introduction-to-machine-learning/untitled.md)
+* [FAQ](introduction-to-machine-learning/untitled.md)
 
 ## Deep Neural Network
 
 * [Introduction](deep-neural-network/deep-neural-networks/README.md)
+  * [Convolutions and Pooling](deep-neural-network/deep-neural-networks/convolutions-and-pooling.md)
   * [Cost vs Loss function](deep-neural-network/deep-neural-networks/cost-function.md)
   * [Parameters vs Hyperparameters](deep-neural-network/deep-neural-networks/forward-propagation-in-a-deep-network.md)
 
