@@ -12,3 +12,9 @@ But simply, pooling is a way of compressing an image. A quick and easy way to do
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
+Check the link below for more info
+
+[https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+
+
+
