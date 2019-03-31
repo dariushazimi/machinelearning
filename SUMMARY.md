@@ -12,7 +12,9 @@
 
 ## Introduction to Machine Learning
 
-* [FAQ](introduction-to-machine-learning/untitled.md)
+* [FAQ](introduction-to-machine-learning/untitled/README.md)
+  * [Training resources](introduction-to-machine-learning/untitled/training-resources.md)
+  * [Untitled](introduction-to-machine-learning/untitled/untitled.md)
 
 ## Deep Neural Network
 
