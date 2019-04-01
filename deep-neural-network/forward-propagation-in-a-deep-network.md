@@ -20,7 +20,7 @@ when you're starting on the new application it's difficult to know in advance ex
 
 Every few months try a different value for your hyperparameters and see if that makes a difference in getting better results.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 
 

@@ -18,7 +18,7 @@ edx: Programming with Python for Data Science
 
 [http://course18.fast.ai/index.html](http://course18.fast.ai/index.html)
 
-
+[https://end-to-end-machine-learning.teachable.com/courses/516029/lectures/9533963](https://end-to-end-machine-learning.teachable.com/courses/516029/lectures/9533963)
 
 ## Convolutions and how they work
 
