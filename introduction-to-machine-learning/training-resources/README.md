@@ -10,6 +10,12 @@ edx: Programming with Python for Data Science
 
 {% embed url="http://cs231n.stanford.edu/" %}
 
+### udacity
+
+{% embed url="https://classroom.udacity.com/courses/ud170/lessons/5430778793/concepts/53961386130923\#" %}
+
+
+
 ### Google
 
 {% embed url="https://developers.google.com/machine-learning/problem-framing/cases" %}
