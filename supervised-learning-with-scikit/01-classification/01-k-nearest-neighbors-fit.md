@@ -6,7 +6,7 @@ Having explored the Congressional voting records dataset, it is time now to buil
 
 What the K-NN algorithm essentially does is that it creates a set of decision boundaries.
 
-![k-nn intuition: Creating decision boundries](../../.gitbook/assets/image%20%284%29.png)
+![k-nn intuition: Creating decision boundries](../../.gitbook/assets/image%20%285%29.png)
 
 
 
