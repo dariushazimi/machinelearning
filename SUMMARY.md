@@ -4,22 +4,21 @@
 
 ## Supervised Learning with Scikit
 
+* [Overview](supervised-learning-with-scikit/overview.md)
 * [01-Classification](supervised-learning-with-scikit/01-classification/README.md)
-  * [Overview](supervised-learning-with-scikit/01-classification/overview.md)
   * [01-k-nearest-neighbors-fit](supervised-learning-with-scikit/01-classification/01-k-nearest-neighbors-fit.md)
   * [02-k-Nearest Neighbors: Predict](supervised-learning-with-scikit/01-classification/02-k-nearest-neighbors-predict.md)
 * [02-Regression](supervised-learning-with-scikit/02-regression.md)
 
 ## Introduction to Machine Learning
 
-* [FAQ](introduction-to-machine-learning/untitled/README.md)
-  * [Training resources](introduction-to-machine-learning/untitled/training-resources.md)
-  * [Untitled](introduction-to-machine-learning/untitled/untitled.md)
+* [Training resources](introduction-to-machine-learning/training-resources.md)
+* [FAQ](introduction-to-machine-learning/untitled.md)
 
 ## Deep Neural Network
 
-* [Introduction](deep-neural-network/deep-neural-networks/README.md)
-  * [Convolutions and Pooling](deep-neural-network/deep-neural-networks/convolutions-and-pooling.md)
-  * [Cost vs Loss function](deep-neural-network/deep-neural-networks/cost-function.md)
-  * [Parameters vs Hyperparameters](deep-neural-network/deep-neural-networks/forward-propagation-in-a-deep-network.md)
+* [Introduction](deep-neural-network/deep-neural-networks.md)
+* [Convolutions and Pooling](deep-neural-network/convolutions-and-pooling.md)
+* [Cost vs Loss function](deep-neural-network/cost-function.md)
+* [Parameters vs Hyperparameters](deep-neural-network/forward-propagation-in-a-deep-network.md)
 
