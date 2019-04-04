@@ -19,13 +19,13 @@ When starting out with a new application, it is almost impossible to come up wit
 When setting up your ML, set it up in a train/dev/test model and choose a ratio that is appropriate.
 
 Also make sure that the dev and test sets come from the same distribution.
+
+when the team tells you that they have only a train and a test set, I would just be cautious and think, do they really have a train dev set? Because they're overfitting to the test set.
 {% endhint %}
 
+## Bias and Variance
 
-
-
-
-
+![](../.gitbook/assets/image%20%2822%29.png)
 
 
 
