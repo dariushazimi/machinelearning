@@ -42,7 +42,7 @@ The Flatten takes our square 28 \* 28 images and turns them into a one dimension
 
 To add convolutions to this, you use code like this. 
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 You'll see that the last three lines are the same, the Flatten, the Dense hidden layer with 128 neurons, and the Dense output layer with 10 neurons. What's different is what has been added on top of this. Let's take a look at this, line by line. 
 
