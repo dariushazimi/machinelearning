@@ -23,4 +23,5 @@
 * [Convolutions and Pooling](deep-neural-network/convolutions-and-pooling.md)
 * [Cost vs Loss function](deep-neural-network/cost-function.md)
 * [Parameters vs Hyperparameters](deep-neural-network/forward-propagation-in-a-deep-network.md)
+* [Coures: 2 Improving Deep Neural Networks: Hyperparameter tuning, Regularization optimization](deep-neural-network/coures-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-optimization.md)
 
