@@ -70,13 +70,13 @@ Lets take a look at the code:
 
 **`Note:`**As K increases, the decision boundary gets smoother  and less curvy.
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 Larger K = smoother decision boundary - less complex model
 
 Smaller K = More complex model = can lead to over fitting
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ### 
 
@@ -84,7 +84,7 @@ Smaller K = More complex model = can lead to over fitting
 
 Below you can see that there is a sweet spot in the middle that can give us the best performance on the test set.
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 
 
