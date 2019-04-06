@@ -22,7 +22,7 @@ ConvNets are great at finding patterns and using them to classify images.
 
 
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ### Pooling
 
@@ -42,7 +42,7 @@ The Flatten takes our square 28 \* 28 images and turns them into a one dimension
 
 To add convolutions to this, you use code like this. 
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 You'll see that the last three lines are the same, the Flatten, the Dense hidden layer with 128 neurons, and the Dense output layer with 10 neurons. What's different is what has been added on top of this. Let's take a look at this, line by line. 
 
@@ -56,7 +56,7 @@ Now, of course, you might wonder what the 64 filters are. They start with a set 
 
 This next line of code will then create a pooling layer. It's max-pooling because we're going to take the maximum value. We're saying it's a two-by-two pool, so for every four pixels, the biggest one will survive as shown earlier. We then add another convolutional layer, and another max-pooling layer so that the network can learn another set of convolutions on top of the existing one, and then again, pool to reduce the size. So, by the time the image gets to the flatten to go into the dense layers, it's already much smaller. It's being quartered, and then quartered again. So, its content has been greatly simplified, the goal being that the convolutions will filter it to the features that determine the output. A really useful method on the model is the model.summary method.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 This allows you to inspect the layers of the model, and see the journey of the image through the convolutions, and here is the output. It's a nice table showing us the layers, and some details about them including the output shape. It's important to keep an eye on the output shape column. When you first look at this, it can be a little bit confusing and feel like a bug. After all, isn't the data 28 by 28, so why is the output, 26 by 26. 
 

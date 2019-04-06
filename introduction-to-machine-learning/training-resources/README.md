@@ -82,5 +82,9 @@ edx: Programming with Python for Data Science
 
 {% embed url="https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/" %}
 
+{% embed url="https://www.youtube.com/watch?v=2wLfFB\_6SKI&list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa" %}
+
+{% embed url="https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" %}
+
 
 
