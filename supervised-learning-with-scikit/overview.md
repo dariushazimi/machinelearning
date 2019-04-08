@@ -17,6 +17,8 @@ Goal:
 * Make future predictions \(Predict the target variable, given the predictor variables., say will a customer click on an add or not?\)
 * Automate time-consuming task \(doctor's diagnosis\)
 
+our goal with supervised learning is to build models that **generalize** to new data however we often aren't able to truly  measure how well our models will perform on out-of-sample \(new\) data does that mean that we're forced to just guess how well our models are likely to do thankfully there are option to for model evaluation procedures which allow us to estimate how well our models are likely to perform on out-of-sample data using our existing labelled data these procedures will help us to choose which value of K is best for kN and to choose whether K and N or logistic regression is a better choice for our particular task  in the meantime I've linked to a few resources that might be helpful to you first is the nearest neighbor section of the scikit-learn user guide it can help you to understand the available nearest neighbor algorithms and how to use them effectively also worth reviewing is the  class documentation for que neighbors classifier it's useful to become familiar with the structure of the class documentation since all classes are documented in the same manner.
+
 At very high level, here are the two main steps of supervised learning: 
 
 1. you train a machine learning model using your existing labeled data. Labeled data is data which has been labeled with the outcome, which in the case of the email example,  is whether each message is ham or spam. This is called "model training" because the model is learning the relationship between the attributes of the data and the outcome. These attributes  might include the message text, the number of embedded links, the length of the message, and so on.  
@@ -28,8 +30,10 @@ To summarize these two steps, you could say that the model is learning from past
 
 | **Task type** | **Target variable** |
 | :--- | :--- |
-| Classification | is categorical \(spam or legit\) |
-| Regression | is continuous \(like price of houses\) |
+| Classification | is categorical \(spam or legit\) and unordered |
+| Regression | is ordered and continuous \(like price of houses\) |
+
+classification problem is predicting whether an email is spam or ham in ****contrast a regression problem is one in which the response being predicted is **ordered** and **continuous** such as the price of a house or the height of a person when looking at iris dot target you might be wondering how you can tell that his is a classification problem and not a regression problem since all you can see is the numbers 0 1 & 2 the answer is you actually cannot tell the difference as a machine learning practitioner you have to understand how your data is encoded and decide whether your response variable is suited for regression or classification in this case we know that the number is 0 1 & 2 represent unordered categories unless we know to use classification techniques and not regression techniques in order to solve this problem .
 
 #### **Supervised learning Requirements**
 

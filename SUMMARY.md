@@ -5,10 +5,12 @@
 ## Supervised Learning with Scikit
 
 * [Overview](supervised-learning-with-scikit/overview.md)
+* [Model evaluation procedure](supervised-learning-with-scikit/model-evaluation-procedure.md)
 * [01-Classification](supervised-learning-with-scikit/01-classification/README.md)
   * [01-k-nearest-neighbors-fit](supervised-learning-with-scikit/01-classification/01-k-nearest-neighbors-fit.md)
   * [02-k-Nearest Neighbors: Predict](supervised-learning-with-scikit/01-classification/02-k-nearest-neighbors-predict.md)
 * [02-Regression](supervised-learning-with-scikit/02-regression.md)
+* [Untitled](supervised-learning-with-scikit/untitled.md)
 
 ## Introduction to Machine Learning
 
