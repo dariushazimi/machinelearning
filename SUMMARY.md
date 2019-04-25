@@ -11,6 +11,7 @@
   * [02-k-Nearest Neighbors: Predict](supervised-learning-with-scikit/01-classification/02-k-nearest-neighbors-predict.md)
 * [02-Regression](supervised-learning-with-scikit/02-regression.md)
 * [Untitled](supervised-learning-with-scikit/untitled.md)
+* [Untitled](supervised-learning-with-scikit/untitled-1.md)
 
 ## Introduction to Machine Learning
 
@@ -27,4 +28,8 @@
 * [Parameters vs Hyperparameters](deep-neural-network/forward-propagation-in-a-deep-network.md)
 * [Coures: 2 Improving Deep Neural Networks: Hyperparameter tuning, Regularization optimization](deep-neural-network/coures-2-improving-deep-neural-networks-hyperparameter-tuning-regularization-optimization.md)
 * [Course 2: Hyperparameter tuning](deep-neural-network/course-2-hyperparameter-tuning.md)
+
+## Modeling Concept
+
+* [Developing a good model](modeling-concept/developing-a-good-model.md)
 

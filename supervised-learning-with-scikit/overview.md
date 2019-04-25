@@ -4,6 +4,14 @@
 
 Supervised learning uses labeled data and when there are no labeled data, we call it unsupervised learning.
 
+Classification & Regression are Supervised Learning concepts, whereas Clustering \(k-means, hierarchical\) and Dimensionality Reduction are Unsupervised Learning concepts.
+
+Supervised Learning is also known as representative, and Unsupervised predictive.
+
+Grouping images or texts is always Classification. Labeling is a whole another concept of in itself, within Data Science and outside of ML.
+
+Class & Reg can be linear, nonlinear or logistic.
+
 ## **Supervised learning**
 
 Supervised learning aka predictive modelling is the process of making predictions using data.  ie.e if my dataset is set of email message, my Supervised learning task might be to predict whether each email is spam or non-spam. This is a supervised learning, because there is a specific outcome we are trying to predict. 
