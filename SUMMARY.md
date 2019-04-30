@@ -10,14 +10,13 @@
   * [01-k-nearest-neighbors-fit](supervised-learning-with-scikit/01-classification/01-k-nearest-neighbors-fit.md)
   * [02-k-Nearest Neighbors: Predict](supervised-learning-with-scikit/01-classification/02-k-nearest-neighbors-predict.md)
 * [02-Regression](supervised-learning-with-scikit/02-regression.md)
-* [Untitled](supervised-learning-with-scikit/untitled.md)
-* [Untitled](supervised-learning-with-scikit/untitled-1.md)
 
 ## Introduction to Machine Learning
 
 * [Training resources](introduction-to-machine-learning/training-resources/README.md)
   * [Books](introduction-to-machine-learning/training-resources/books.md)
   * [Links](introduction-to-machine-learning/training-resources/links.md)
+  * [Untitled](introduction-to-machine-learning/training-resources/untitled.md)
 * [FAQ](introduction-to-machine-learning/untitled.md)
 
 ## Deep Neural Network
@@ -32,4 +31,6 @@
 ## Modeling Concept
 
 * [Developing a good model](modeling-concept/developing-a-good-model.md)
+* [Algorithm](modeling-concept/algorithm.md)
+* [Clustering](modeling-concept/clustering.md)
 

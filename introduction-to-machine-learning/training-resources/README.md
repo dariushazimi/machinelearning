@@ -6,6 +6,12 @@ Coursera
 
 Datacamp
 
+{% embed url="https://www.kaggle.com/learn/overview" %}
+
+{% embed url="https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder\#" %}
+
+
+
 edx: Programming with Python for Data Science 
 
 {% embed url="http://cs231n.stanford.edu/" %}

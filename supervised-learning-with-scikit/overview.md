@@ -12,6 +12,14 @@ Grouping images or texts is always Classification. Labeling is a whole another c
 
 Class & Reg can be linear, nonlinear or logistic.
 
+An example of supervised learning is when a teacher or a parent supervises the learning process by providing model examples and feedback on quizzes.
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+Where as with an unsupervised learning you are on your own trying to figure things out. Imagine being in the wild and trying to figure out which types of fruits you can eat vs the poisonous ones.
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
 ## **Supervised learning**
 
 Supervised learning aka predictive modelling is the process of making predictions using data.  ie.e if my dataset is set of email message, my Supervised learning task might be to predict whether each email is spam or non-spam. This is a supervised learning, because there is a specific outcome we are trying to predict. 
@@ -68,6 +76,8 @@ This is where machines interact with an environment. These reinforcement learnin
 
 * behaviour based on a given system of rewards and punishments. Similar to what google GO project was able to achieve playing GO.
 * Grouping customers into distinct categories \(clustering\) based on their purchasing behaviour without knowing in advance what these categories maybe. This is known as clustering \(just of the branches of unsupervised learning\)
+
+![](../.gitbook/assets/image%20%2817%29.png)
 
 {% hint style="info" %}
 Book: "An Introduction to Statistical Learning" by Trevor Hastie and Rob Tibshirani.
