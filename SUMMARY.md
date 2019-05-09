@@ -34,3 +34,17 @@
 * [Algorithm](modeling-concept/algorithm.md)
 * [Clustering](modeling-concept/clustering.md)
 
+## Azure
+
+* [Azure links](azure/azure-links.md)
+
+## Cloud Security
+
+* [AWS Security Best Practices](cloud-security/aws-security-best-practices.md)
+* [Security tools](cloud-security/security-tools.md)
+* [AWS monitoring](cloud-security/aws-monitoring.md)
+
+## Git Tips and tricks
+
+* [Git General Info](git-tips-and-tricks/git-general-info.md)
+
