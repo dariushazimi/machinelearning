@@ -1,0 +1,53 @@
+# Tool List
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+![](../.gitbook/assets/image%20%2822%29.png)
+
+
+
+![](../.gitbook/assets/image%20%2826%29.png)
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
+* [APM: AppDynamics, DataDog, DynaTrace, NewRelic, CA APM](https://confluence.investorsgroup.com/display/IDT/APM%3A+AppDynamics%2C+DataDog%2C+DynaTrace%2C+NewRelic%2C+CA+APM)
+* [Artifactory vs Nexus Repository](https://confluence.investorsgroup.com/display/IDT/Artifactory+vs+Nexus+Repository)
+* [Automated API Testing Tools](https://confluence.investorsgroup.com/display/IDT/Automated+API+Testing+Tools)
+* [Automation for Jira](https://confluence.investorsgroup.com/display/IDT/Automation+for+Jira)
+* [Bamboo vs Jenkins](https://confluence.investorsgroup.com/display/IDT/Bamboo+vs+Jenkins)
+* [Bitbucket Pipelines vs Jenkins - Salesforce Continuous Integration](https://confluence.investorsgroup.com/display/IDT/Bitbucket+Pipelines+vs+Jenkins+-+Salesforce+Continuous+Integration)
+* [Cloud Native Developer Tools: AWS vs Azure vs GCP](https://confluence.investorsgroup.com/display/IDT/Cloud+Native+Developer+Tools%3A+AWS+vs+Azure+vs+GCP)
+* [Confluence Add-on Draw Tools](https://confluence.investorsgroup.com/display/IDT/Confluence+Add-on+Draw+Tools)
+* [Crowdsource Testing Platform](https://confluence.investorsgroup.com/display/IDT/Crowdsource+Testing+Platform)
+* [Device Farms](https://confluence.investorsgroup.com/display/IDT/Device+Farms)
+* [Docker](https://confluence.investorsgroup.com/display/IDT/Docker)
+* [Exploratory Testing: JIRA Apps Comparison](https://confluence.investorsgroup.com/display/IDT/Exploratory+Testing%3A+JIRA+Apps+Comparison)
+* [FishEye and BitBucket Search Features](https://confluence.investorsgroup.com/display/IDT/FishEye+and+BitBucket+Search+Features)
+* [Heroku](https://confluence.investorsgroup.com/display/IDT/Heroku)
+* [Infrastructure Automation and Configuration Management: Ansible, Terraform, Chef, Puppet](https://confluence.investorsgroup.com/display/IDT/Infrastructure+Automation+and+Configuration+Management%3A+Ansible%2C+Terraform%2C+Chef%2C+Puppet)
+* [Java Code Coverage](https://confluence.investorsgroup.com/display/IDT/Java+Code+Coverage)
+* [JFrog Bintray](https://confluence.investorsgroup.com/display/IDT/JFrog+Bintray)
+* [JIRA ADSR vs JIRA Service Desk](https://confluence.investorsgroup.com/display/IDT/JIRA+ADSR+vs+JIRA+Service+Desk)
+* [JIRA Cloning Plugins](https://confluence.investorsgroup.com/display/IDT/JIRA+Cloning+Plugins)
+* [JIRA PPM Tools](https://confluence.investorsgroup.com/display/IDT/JIRA+PPM+Tools)
+* [Log Aggregation: DataDog, Splunk, Graylog, Logz.io, AWS Elasticsearch, ElasticCloud](https://confluence.investorsgroup.com/display/IDT/Log+Aggregation%3A+DataDog%2C+Splunk%2C+Graylog%2C+Logz.io%2C+AWS+Elasticsearch%2C+ElasticCloud)
+* [Maven vs Gradle](https://confluence.investorsgroup.com/display/IDT/Maven+vs+Gradle)
+* [Neoload vs BlazeMeter vs Flood vs LoadComplete - Load & Performance Testing Tools](https://confluence.investorsgroup.com/pages/viewpage.action?pageId=31424544)
+* [Newman with POSTMAN \(Integration with Jenkins with Reporting Enabled\)](https://confluence.investorsgroup.com/pages/viewpage.action?pageId=112430734)
+* [Open Source Vulnerability Scanning: Xray vs Whitesource vs Blackduck vs SourceClear](https://confluence.investorsgroup.com/display/IDT/Open+Source+Vulnerability+Scanning%3A+Xray+vs+Whitesource+vs+Blackduck+vs+SourceClear)
+* [Release Automation Tools](https://confluence.investorsgroup.com/display/IDT/Release+Automation+Tools)
+* [Roadmapping Tools: Roadmunk, Realtimeboard, EasyAgile Roadmaps for JIRA, Portfolio for JIRA](https://confluence.investorsgroup.com/display/IDT/Roadmapping+Tools%3A+Roadmunk%2C+Realtimeboard%2C+EasyAgile+Roadmaps+for+JIRA%2C+Portfolio+for+JIRA)
+* [Salesforce Continuous Delivery Tools](https://confluence.investorsgroup.com/display/IDT/Salesforce+Continuous+Delivery+Tools)
+* [Secrets Management Tools](https://confluence.investorsgroup.com/display/IDT/Secrets+Management+Tools)
+* [Security - SAST](https://confluence.investorsgroup.com/display/IDT/Security+-+SAST)
+* [Security - SAST, DAST, IAST, MAST](https://confluence.investorsgroup.com/display/IDT/Security+-+SAST%2C+DAST%2C+IAST%2C+MAST)
+* [Serverless/Function As A Service\(FaaS\)](https://confluence.investorsgroup.com/pages/viewpage.action?pageId=27788682)
+* [SSO Add-ons for Atlassian Tools](https://confluence.investorsgroup.com/display/IDT/SSO+Add-ons+for+Atlassian+Tools)
+* [Status Page Comparison: Statuspage.io vs StatusCast.com vs Status.io vs Staytus.co vs Cachet](https://confluence.investorsgroup.com/display/IDT/Status+Page+Comparison%3A+Statuspage.io+vs+StatusCast.com+vs+Status.io+vs+Staytus.co+vs+Cachet)
+* [Test Automation for Mobile Apps](https://confluence.investorsgroup.com/display/IDT/Test+Automation+for+Mobile+Apps)
+* [Test Data Management Tools](https://confluence.investorsgroup.com/display/IDT/Test+Data+Management+Tools)
+* [Test Management: Adaptavist vs Xray vs qTest](https://confluence.investorsgroup.com/display/IDT/Test+Management%3A+Adaptavist+vs+Xray+vs+qTest)
+* [TestNG vs JUnit](https://confluence.investorsgroup.com/display/IDT/TestNG+vs+JUnit)
+* [Value Stream Management Tools](https://confluence.investorsgroup.com/display/IDT/Value+Stream+Management+Tools)
+* [WebEx vs GoToMeeting vs Zoom vs Skype](https://confluence.investorsgroup.com/display/IDT/WebEx+vs+GoToMeeting+vs+Zoom+vs+Skype)
+

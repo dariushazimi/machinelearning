@@ -14,11 +14,11 @@ Class & Reg can be linear, nonlinear or logistic.
 
 An example of supervised learning is when a teacher or a parent supervises the learning process by providing model examples and feedback on quizzes.
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 Where as with an unsupervised learning you are on your own trying to figure things out. Imagine being in the wild and trying to figure out which types of fruits you can eat vs the poisonous ones.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
 ## **Supervised learning**
 

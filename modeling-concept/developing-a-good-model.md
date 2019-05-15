@@ -2,7 +2,7 @@
 
 There are different ways to approach the problem:
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 Here are some examples of choosing the right approach
 
@@ -20,7 +20,7 @@ Here are some examples of choosing the right approach
 
 ### Data Preparation
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ### K-Fold Cross-Validation Method
 

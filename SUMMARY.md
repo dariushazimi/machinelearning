@@ -48,3 +48,10 @@
 
 * [Git General Info](git-tips-and-tricks/git-general-info.md)
 
+## Devops
+
+* [Toolset](devops/toolset.md)
+* [Tool List](devops/tool-list.md)
+* [Tool Category](devops/tool-category.md)
+* [Current State](devops/current-state.md)
+
