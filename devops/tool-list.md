@@ -1,14 +1,14 @@
 # Tool List
 
+![](../.gitbook/assets/image%20%2824%29.png)
+
 ![](../.gitbook/assets/image%20%2823%29.png)
 
-![](../.gitbook/assets/image%20%2822%29.png)
 
 
+![](../.gitbook/assets/image%20%2827%29.png)
 
-![](../.gitbook/assets/image%20%2826%29.png)
-
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 * [APM: AppDynamics, DataDog, DynaTrace, NewRelic, CA APM](https://confluence.investorsgroup.com/display/IDT/APM%3A+AppDynamics%2C+DataDog%2C+DynaTrace%2C+NewRelic%2C+CA+APM)
 * [Artifactory vs Nexus Repository](https://confluence.investorsgroup.com/display/IDT/Artifactory+vs+Nexus+Repository)

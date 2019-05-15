@@ -11,7 +11,7 @@ When setting up the NN we have to make a lot of decision in terms of:
 
 When starting out with a new application, it is almost impossible to come up with the right numbers/answers on the first attempt. So in practice applying ML is a highly iterative process, from Idea -&gt; code -&gt; experiment and based on the outcome of the experiment we refine the idea to come up with a better and better network.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 {% hint style="success" %}
 **Success Factors:**
@@ -25,15 +25,15 @@ when the team tells you that they have only a train and a test set, I would just
 
 ## Bias and Variance
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### Example of high bias and high variance
 
 this classifier kind of **has high bias** because it was mostly _linear, but you need maybe a curve function_ or quadratic function. And it has **high** **variance**, because it had **too much flexibility** to fit those two mislabel, or those live examples in the middle as well. In case this seems contrived, well, this example is a little bit contrived in two dimensions, but with very high dimensional inputs. You actually do get things with high bias in some regions and high variance in some regions, and so it is possible to get classifiers like this in high dimensional inputs that seem less contrived. So to summarize, you've seen how by looking at your algorithm's error on the training set and your algorithm's error on the dev set you can try to diagnose, whether it has problems of high bias or high variance, or maybe both, or maybe neither. And depending on whether your algorithm suffers from bias or variance, it turns out that there are different things you could try.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ## Basic recipe for ML
 
@@ -42,7 +42,7 @@ Recommendations:
 First ask: Does the algorithm have high bias?   
 -&gt; Yes, try bigger network or bigger units, train longer, or use more advanced algo or better NN architecture. Keep in mind that bigger network always helps but training longer doesn't always help but it doesn't hurt. So try these things till you get rid of the bias problem.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 if --&gt; No, Next question is:  
 Do you have variance problem? 
@@ -55,7 +55,7 @@ So for example, if you actually have a high bias problem, getting more training 
 1. So being clear on how much of a bias problem or variance problem or both can help you focus on selecting the most useful things to try. 
 2. Second, in the earlier era of machine learning, there used to be a lot of discussion on what is called the bias variance tradeoff. And the reason for that was that, for a lot of the things you could try, you could increase bias and reduce variance, or reduce bias and increase variance. But back in the pre-deep learning era, we didn't have many tools, we didn't have as many tools that just reduce bias or that just reduce variance without hurting the other one. But in the modern deep learning, big data era, so long as you can keep training a bigger network, and so long as you can keep getting more data, which isn't always the case for either of these, but if that's the case, then getting a bigger network almost always just reduces your bias without necessarily hurting your variance, so long as you regularize appropriately. And getting more data pretty much always reduces your variance and doesn't hurt your bias much.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ## How to apply regularization to your network?
 

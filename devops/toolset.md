@@ -2,6 +2,8 @@
 
 Veracode
 
+![](../.gitbook/assets/image%20%2810%29.png)
+
 
 
 [to start of metadata](https://confluence.investorsgroup.com/display/IDT/Cloud+Native+Developer+Tools%3A+AWS+vs+Azure+vs+GCP#page-metadata-start)

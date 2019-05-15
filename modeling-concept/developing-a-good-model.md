@@ -2,7 +2,7 @@
 
 There are different ways to approach the problem:
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 Here are some examples of choosing the right approach
 
@@ -12,15 +12,15 @@ Here are some examples of choosing the right approach
 
 ![](../.gitbook/assets/image.png)
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 ### Bloom's Taxonomy
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 ### Data Preparation
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ### K-Fold Cross-Validation Method
 
@@ -32,9 +32,9 @@ The name Mechanical Turk was inspired by "[The Turk](https://en.wikipedia.org/wi
 
 ### Hyperparameters vs Parameters
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 ### Why GPUs?
 

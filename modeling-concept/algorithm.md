@@ -12,7 +12,7 @@ description: Kharazmi (Father of algebra)
 
 ### Linear Learner Algorithm
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 Linear learner works pretty good when we have continues data like
 
@@ -22,13 +22,13 @@ Linear learner works pretty good when we have continues data like
 
 But when we have have a sparse dataset we can use Factorization Machines \(it is a supervised learning\)
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 ### Considerations for Factorization Machines Algorithm
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ### Use case for Factorization machines 
 
