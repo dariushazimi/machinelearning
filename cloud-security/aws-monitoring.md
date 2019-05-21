@@ -2,6 +2,8 @@
 
 {% embed url="https://awssecworkshops.com/workshops/" %}
 
+{% embed url="https://github.com/aws-samples/aws-serverless-security-workshop" %}
+
 
 
 {% embed url="https://ml-threat-detection.awssecworkshops.com/" %}

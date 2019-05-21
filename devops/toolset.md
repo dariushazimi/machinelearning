@@ -2,6 +2,12 @@
 
 Veracode
 
+{% embed url="https://drive.google.com/open?id=1MQXA7mGsDHjXbppZ\_uZwZKFnBd334zV2" %}
+
+{% embed url="https://github.com/open-guides/og-aws\#why-an-open-guide" %}
+
+
+
 ![](../.gitbook/assets/image%20%2810%29.png)
 
 
