@@ -55,3 +55,7 @@
 * [Tool Category](devops/tool-category.md)
 * [Current State](devops/current-state.md)
 
+## AWS Labs and workshops
+
+* [AWS Labs and Workshops](aws-labs-and-workshops/aws-labs-and-workshops.md)
+
