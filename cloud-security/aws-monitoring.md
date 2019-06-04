@@ -1,5 +1,17 @@
 # AWS monitoring
 
+{% embed url="https://github.com/aws-samples/amazon-cloudwatch-log-centralizer" %}
+
+
+
+{% embed url="https://d0.awsstatic.com/whitepapers/AWS\_CAF\_Security\_Perspective.pdf" %}
+
+
+
+{% embed url="https://github.com/aws-samples/aws-security-odyssey/tree/master/SID402Workshop" %}
+
+
+
 {% embed url="https://awssecworkshops.com/workshops/" %}
 
 {% embed url="https://github.com/aws-samples/aws-serverless-security-workshop" %}
