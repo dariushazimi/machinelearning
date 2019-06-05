@@ -43,6 +43,7 @@
 * [AWS Security Best Practices](cloud-security/aws-security-best-practices.md)
 * [Security tools](cloud-security/security-tools.md)
 * [AWS monitoring](cloud-security/aws-monitoring.md)
+* [AWS Identity and Access Management](cloud-security/delegate-access-across-aws-accounts-using-iam-roles.md)
 
 ## Git Tips and tricks
 
