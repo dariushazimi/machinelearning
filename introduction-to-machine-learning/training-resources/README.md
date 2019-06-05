@@ -96,5 +96,7 @@ edx: Programming with Python for Data Science
 
 {% embed url="https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A" %}
 
+{% embed url="https://www.theschool.ai/courses/data-lit/lessons/credit-scoring/" %}
+
 
 
