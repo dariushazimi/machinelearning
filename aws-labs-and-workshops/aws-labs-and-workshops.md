@@ -8,6 +8,8 @@
 
 {% embed url="https://aws.amazon.com/solutions/cost-optimization-ec2-right-sizing/" %}
 
+{% embed url="https://github.com/aws-quickstart/quickstart-aws-vpc" %}
+
 
 
 
